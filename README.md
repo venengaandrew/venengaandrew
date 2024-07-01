@@ -11,8 +11,8 @@ src="https://img.shields.io/twitch/status/drewvpopc?logo=twitchsx&style=for-the-
 
 ### 👷 Check out what I'm currently working on
 
-- [venengaandrew/dotfiles](https://github.com/venengaandrew/dotfiles) - My customization files for various programs and OS&#39;s
 - [venengaandrew/andrew-venenga](https://github.com/venengaandrew/andrew-venenga) - 
+- [venengaandrew/dotfiles](https://github.com/venengaandrew/dotfiles) - My customization files for various programs and OS&#39;s
 - [venengaandrew/demondetailing.pro](https://github.com/venengaandrew/demondetailing.pro) - 
 - [venengaandrew/AV-Blog](https://github.com/venengaandrew/AV-Blog) - 
 - [venengaandrew/drewvpopc-live](https://github.com/venengaandrew/drewvpopc-live) - 
@@ -25,11 +25,11 @@ src="https://img.shields.io/twitch/status/drewvpopc?logo=twitchsx&style=for-the-
 - [venengaandrew/dotfiles](https://github.com/venengaandrew/dotfiles) - My customization files for various programs and OS&#39;s
 ### 🔨 My recent Pull Requests
 
+- [headlessui, eslint &#43; security update](https://github.com/venengaandrew/andrew-venenga/pull/33) on [venengaandrew/andrew-venenga](https://github.com/venengaandrew/andrew-venenga)
 - [Dev to Main](https://github.com/venengaandrew/andrew-venenga/pull/32) on [venengaandrew/andrew-venenga](https://github.com/venengaandrew/andrew-venenga)
 - [[Snyk] Upgrade react-lazyload from 3.2.0 to 3.2.1](https://github.com/venengaandrew/andrew-venenga/pull/31) on [venengaandrew/andrew-venenga](https://github.com/venengaandrew/andrew-venenga)
 - [[Snyk] Upgrade @headlessui/react from 1.7.18 to 1.7.19](https://github.com/venengaandrew/andrew-venenga/pull/30) on [venengaandrew/andrew-venenga](https://github.com/venengaandrew/andrew-venenga)
 - [[Snyk] Upgrade autoprefixer from 10.4.17 to 10.4.19](https://github.com/venengaandrew/andrew-venenga/pull/29) on [venengaandrew/andrew-venenga](https://github.com/venengaandrew/andrew-venenga)
-- [[Snyk] Upgrade @sendgrid/mail from 8.1.1 to 8.1.3](https://github.com/venengaandrew/andrew-venenga/pull/28) on [venengaandrew/andrew-venenga](https://github.com/venengaandrew/andrew-venenga)
 ### ⭐ Recent Stars
 
 - [CraftComputing/ProjectAxeEffect](https://github.com/CraftComputing/ProjectAxeEffect) - 
