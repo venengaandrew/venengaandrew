@@ -32,11 +32,11 @@ src="https://img.shields.io/twitch/status/drewvpopc?logo=twitchsx&style=for-the-
 - [[Snyk] Upgrade autoprefixer from 10.4.17 to 10.4.19](https://github.com/venengaandrew/andrew-venenga/pull/29) on [venengaandrew/andrew-venenga](https://github.com/venengaandrew/andrew-venenga)
 ### ⭐ Recent Stars
 
+- [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) - Terraform Provider for Proxmox
 - [CraftComputing/ProjectAxeEffect](https://github.com/CraftComputing/ProjectAxeEffect) - 
 - [UbuntuAsahi/ubuntu-asahi](https://github.com/UbuntuAsahi/ubuntu-asahi) - Native Ubuntu installations for Apple silicon hardware
 - [seriousm4x/UpSnap](https://github.com/seriousm4x/UpSnap) - A simple wake on lan web app written with SvelteKit, Go and PocketBase.
 - [brokenscripts/authentik_traefik](https://github.com/brokenscripts/authentik_traefik) - Authentik behind Traefik
-- [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 ### 📫 How to reach me:
   - Twitch    : <https://twitch.tv/drewvpopc>
   - Website   : <https://andrew.venenga.net>
