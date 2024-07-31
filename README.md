@@ -25,11 +25,11 @@ src="https://img.shields.io/twitch/status/drewvpopc?logo=twitchsx&style=for-the-
 - [venengaandrew/dotfiles](https://github.com/venengaandrew/dotfiles) - My customization files for various programs and OS&#39;s
 ### 🔨 My recent Pull Requests
 
+- [[Snyk] Upgrade @headlessui/react from 2.1.1 to 2.1.2](https://github.com/venengaandrew/andrew-venenga/pull/35) on [venengaandrew/andrew-venenga](https://github.com/venengaandrew/andrew-venenga)
 - [[Snyk] Upgrade @headlessui/react from 2.1.1 to 2.1.2](https://github.com/venengaandrew/andrew-venenga/pull/34) on [venengaandrew/andrew-venenga](https://github.com/venengaandrew/andrew-venenga)
 - [headlessui, eslint &#43; security update](https://github.com/venengaandrew/andrew-venenga/pull/33) on [venengaandrew/andrew-venenga](https://github.com/venengaandrew/andrew-venenga)
 - [Dev to Main](https://github.com/venengaandrew/andrew-venenga/pull/32) on [venengaandrew/andrew-venenga](https://github.com/venengaandrew/andrew-venenga)
 - [[Snyk] Upgrade react-lazyload from 3.2.0 to 3.2.1](https://github.com/venengaandrew/andrew-venenga/pull/31) on [venengaandrew/andrew-venenga](https://github.com/venengaandrew/andrew-venenga)
-- [[Snyk] Upgrade @headlessui/react from 1.7.18 to 1.7.19](https://github.com/venengaandrew/andrew-venenga/pull/30) on [venengaandrew/andrew-venenga](https://github.com/venengaandrew/andrew-venenga)
 ### ⭐ Recent Stars
 
 - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) - Terraform Provider for Proxmox
