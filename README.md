@@ -25,10 +25,10 @@ src="https://img.shields.io/twitch/status/drewvpopc?logo=twitchsx&style=for-the-
 - [venengaandrew/dotfiles](https://github.com/venengaandrew/dotfiles) - My customization files for various programs and OS&#39;s
 ### 🔨 My recent Pull Requests
 
+- [[Snyk] Security upgrade next from 15.1.0 to 15.1.2](https://github.com/venengaandrew/andrew-venenga/pull/56) on [venengaandrew/andrew-venenga](https://github.com/venengaandrew/andrew-venenga)
 - [[Snyk] Fix for 2 vulnerabilities](https://github.com/venengaandrew/andrew-venenga/pull/55) on [venengaandrew/andrew-venenga](https://github.com/venengaandrew/andrew-venenga)
 - [[Snyk] Security upgrade next from 14.2.4 to 14.2.10](https://github.com/venengaandrew/andrew-venenga/pull/49) on [venengaandrew/andrew-venenga](https://github.com/venengaandrew/andrew-venenga)
 - [[Snyk] Upgrade @eslint/js from 9.6.0 to 9.7.0](https://github.com/venengaandrew/andrew-venenga/pull/43) on [venengaandrew/andrew-venenga](https://github.com/venengaandrew/andrew-venenga)
-- [[Snyk] Upgrade next from 14.2.4 to 14.2.5](https://github.com/venengaandrew/andrew-venenga/pull/42) on [venengaandrew/andrew-venenga](https://github.com/venengaandrew/andrew-venenga)
 ### ⭐ Recent Stars
 
 - [TechUnRestricted/WinDiskWriter](https://github.com/TechUnRestricted/WinDiskWriter) - 🖥 Windows Bootable USB creator for macOS. 🛠 Patches Windows 11 to bypass TPM and Secure Boot requirements. 👾 UEFI &amp; Legacy Support
