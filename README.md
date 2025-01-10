@@ -31,11 +31,11 @@ src="https://img.shields.io/twitch/status/drewvpopc?logo=twitchsx&style=for-the-
 - [[Snyk] Upgrade @eslint/js from 9.6.0 to 9.7.0](https://github.com/venengaandrew/andrew-venenga/pull/43) on [venengaandrew/andrew-venenga](https://github.com/venengaandrew/andrew-venenga)
 ### ⭐ Recent Stars
 
+- [sergelogvinov/proxmox-cloud-controller-manager](https://github.com/sergelogvinov/proxmox-cloud-controller-manager) - Kubernetes cloud controller manager for Proxmox
+- [sergelogvinov/terraform-talos](https://github.com/sergelogvinov/terraform-talos) - Terraform examples to run Talos
 - [TechUnRestricted/WinDiskWriter](https://github.com/TechUnRestricted/WinDiskWriter) - 🖥 Windows Bootable USB creator for macOS. 🛠 Patches Windows 11 to bypass TPM and Secure Boot requirements. 👾 UEFI &amp; Legacy Support
 - [NollieL/SignalRgb_CN_Key](https://github.com/NollieL/SignalRgb_CN_Key) - Chinese produced keyboard add SignalRgb
 - [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - install nixos everywhere via ssh [maintainer=@numtide]
-- [bitpoke/stack-runtimes](https://github.com/bitpoke/stack-runtimes) - PHP docker images with batteries included for running WordPress
-- [sablierapp/sablier](https://github.com/sablierapp/sablier) - Start your containers on demand, shut them down automatically when there&#39;s no activity. Docker, Docker Swarm Mode and Kubernetes compatible.
 ### 📫 How to reach me:
   - Twitch    : <https://twitch.tv/drewvpopc>
   - Website   : <https://andrew.venenga.net>
