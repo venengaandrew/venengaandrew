@@ -25,10 +25,11 @@ src="https://img.shields.io/twitch/status/drewvpopc?logo=twitchsx&style=for-the-
 - [venengaandrew/dotfiles](https://github.com/venengaandrew/dotfiles) - My customization files for various programs and OS&#39;s
 ### 🔨 My recent Pull Requests
 
-- [[Snyk] Security upgrade next from 15.1.0 to 15.1.2](https://github.com/venengaandrew/andrew-venenga/pull/56) on [venengaandrew/andrew-venenga](https://github.com/venengaandrew/andrew-venenga)
-- [[Snyk] Fix for 2 vulnerabilities](https://github.com/venengaandrew/andrew-venenga/pull/55) on [venengaandrew/andrew-venenga](https://github.com/venengaandrew/andrew-venenga)
-- [[Snyk] Security upgrade next from 14.2.4 to 14.2.10](https://github.com/venengaandrew/andrew-venenga/pull/49) on [venengaandrew/andrew-venenga](https://github.com/venengaandrew/andrew-venenga)
-- [[Snyk] Upgrade @eslint/js from 9.6.0 to 9.7.0](https://github.com/venengaandrew/andrew-venenga/pull/43) on [venengaandrew/andrew-venenga](https://github.com/venengaandrew/andrew-venenga)
+- [[Snyk] Upgrade @vercel/analytics from 1.3.1 to 1.4.1](https://github.com/venengaandrew/andrew-venenga/pull/62) on [venengaandrew/andrew-venenga](https://github.com/venengaandrew/andrew-venenga)
+- [[Snyk] Upgrade ts-pattern from 5.2.0 to 5.6.0](https://github.com/venengaandrew/andrew-venenga/pull/61) on [venengaandrew/andrew-venenga](https://github.com/venengaandrew/andrew-venenga)
+- [[Snyk] Upgrade @eslint/compat from 1.1.0 to 1.2.5](https://github.com/venengaandrew/andrew-venenga/pull/60) on [venengaandrew/andrew-venenga](https://github.com/venengaandrew/andrew-venenga)
+- [[Snyk] Upgrade @headlessui/react from 2.1.2 to 2.2.0](https://github.com/venengaandrew/andrew-venenga/pull/59) on [venengaandrew/andrew-venenga](https://github.com/venengaandrew/andrew-venenga)
+- [[Snyk] Upgrade @eslint/js from 9.6.0 to 9.18.0](https://github.com/venengaandrew/andrew-venenga/pull/58) on [venengaandrew/andrew-venenga](https://github.com/venengaandrew/andrew-venenga)
 ### ⭐ Recent Stars
 
 - [mbentley/docker-omada-controller](https://github.com/mbentley/docker-omada-controller) - Docker image to run TP-Link Omada Controller
