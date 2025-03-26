@@ -23,11 +23,11 @@ src="https://img.shields.io/twitch/status/drewvpopc?logo=twitchsx&style=for-the-
 - [venengaandrew/dotfiles](https://github.com/venengaandrew/dotfiles) - My customization files for various programs and OS&#39;s
 ### 🔨 My recent Pull Requests
 
+- [[Snyk] Security upgrade next from 15.1.3 to 15.2.3](https://github.com/venengaandrew/andrew-venenga/pull/67) on [venengaandrew/andrew-venenga](https://github.com/venengaandrew/andrew-venenga)
 - [[Snyk] Upgrade @vercel/analytics from 1.3.1 to 1.4.1](https://github.com/venengaandrew/andrew-venenga/pull/62) on [venengaandrew/andrew-venenga](https://github.com/venengaandrew/andrew-venenga)
 - [[Snyk] Upgrade ts-pattern from 5.2.0 to 5.6.0](https://github.com/venengaandrew/andrew-venenga/pull/61) on [venengaandrew/andrew-venenga](https://github.com/venengaandrew/andrew-venenga)
 - [[Snyk] Upgrade @eslint/compat from 1.1.0 to 1.2.5](https://github.com/venengaandrew/andrew-venenga/pull/60) on [venengaandrew/andrew-venenga](https://github.com/venengaandrew/andrew-venenga)
 - [[Snyk] Upgrade @headlessui/react from 2.1.2 to 2.2.0](https://github.com/venengaandrew/andrew-venenga/pull/59) on [venengaandrew/andrew-venenga](https://github.com/venengaandrew/andrew-venenga)
-- [[Snyk] Upgrade @eslint/js from 9.6.0 to 9.18.0](https://github.com/venengaandrew/andrew-venenga/pull/58) on [venengaandrew/andrew-venenga](https://github.com/venengaandrew/andrew-venenga)
 ### ⭐ Recent Stars
 
 - [MahmoudAlyuDeen/diwansync](https://github.com/MahmoudAlyuDeen/diwansync) - 
