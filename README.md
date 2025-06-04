@@ -22,18 +22,18 @@ src="https://img.shields.io/twitch/status/drewvpopc?logo=twitchsx&style=for-the-
 - [venengaandrew/dotfiles](https://github.com/venengaandrew/dotfiles) - My customization files for various programs and OS&#39;s
 ### 🔨 My recent Pull Requests
 
+- [[Snyk] Security upgrade next from 15.1.3 to 15.2.2](https://github.com/venengaandrew/andrew-venenga/pull/71) on [venengaandrew/andrew-venenga](https://github.com/venengaandrew/andrew-venenga)
 - [[Snyk] Security upgrade next from 15.1.3 to 15.1.6](https://github.com/venengaandrew/andrew-venenga/pull/70) on [venengaandrew/andrew-venenga](https://github.com/venengaandrew/andrew-venenga)
 - [[Snyk] Security upgrade @sendgrid/mail from 8.1.3 to 8.1.5](https://github.com/venengaandrew/andrew-venenga/pull/68) on [venengaandrew/andrew-venenga](https://github.com/venengaandrew/andrew-venenga)
 - [[Snyk] Security upgrade next from 15.1.3 to 15.2.3](https://github.com/venengaandrew/andrew-venenga/pull/67) on [venengaandrew/andrew-venenga](https://github.com/venengaandrew/andrew-venenga)
 - [[Snyk] Upgrade @vercel/analytics from 1.3.1 to 1.4.1](https://github.com/venengaandrew/andrew-venenga/pull/62) on [venengaandrew/andrew-venenga](https://github.com/venengaandrew/andrew-venenga)
-- [[Snyk] Upgrade ts-pattern from 5.2.0 to 5.6.0](https://github.com/venengaandrew/andrew-venenga/pull/61) on [venengaandrew/andrew-venenga](https://github.com/venengaandrew/andrew-venenga)
 ### ⭐ Recent Stars
 
+- [That-Guy-Jack/HP-ILO-Fan-Control](https://github.com/That-Guy-Jack/HP-ILO-Fan-Control) - Uses a Custom ROM for The Hp ILO adapter
 - [DeploymentResearch/HydrationKitWS2025](https://github.com/DeploymentResearch/HydrationKitWS2025) - 
 - [SteamClientHomebrew/Millennium](https://github.com/SteamClientHomebrew/Millennium) - Apply themes/skins/customize Steam® after the 2023-04-27 Chromium UI update
 - [varun-raj/immich-power-tools](https://github.com/varun-raj/immich-power-tools) - Power tools for organizing your immich library 
 - [alexei-led/k8s-mcp-server](https://github.com/alexei-led/k8s-mcp-server) - K8s-mcp-server is a Model Context Protocol (MCP) server that enables AI assistants like Claude to securely execute Kubernetes commands. It provides a bridge between language models and essential Kubernetes CLI tools including kubectl, helm, istioctl, and argocd, allowing AI systems to assist with cluster management, troubleshooting, and deployments
-- [MahmoudAlyuDeen/diwansync](https://github.com/MahmoudAlyuDeen/diwansync) - 
 ### 📫 How to reach me:
   - Twitch    : <https://twitch.tv/drewvpopc>
   - Website   : <https://andrew.venenga.net>
