@@ -29,11 +29,11 @@ src="https://img.shields.io/twitch/status/drewvpopc?logo=twitchsx&style=for-the-
 - [[Snyk] Upgrade @vercel/analytics from 1.3.1 to 1.4.1](https://github.com/venengaandrew/andrew-venenga/pull/62) on [venengaandrew/andrew-venenga](https://github.com/venengaandrew/andrew-venenga)
 ### ⭐ Recent Stars
 
+- [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - A very segsy desktop shell
 - [That-Guy-Jack/HP-ILO-Fan-Control](https://github.com/That-Guy-Jack/HP-ILO-Fan-Control) - Uses a Custom ROM for The Hp ILO adapter
 - [DeploymentResearch/HydrationKitWS2025](https://github.com/DeploymentResearch/HydrationKitWS2025) - 
 - [SteamClientHomebrew/Millennium](https://github.com/SteamClientHomebrew/Millennium) - Apply themes/skins/customize Steam® after the 2023-04-27 Chromium UI update
 - [varun-raj/immich-power-tools](https://github.com/varun-raj/immich-power-tools) - Power tools for organizing your immich library 
-- [alexei-led/k8s-mcp-server](https://github.com/alexei-led/k8s-mcp-server) - K8s-mcp-server is a Model Context Protocol (MCP) server that enables AI assistants like Claude to securely execute Kubernetes commands. It provides a bridge between language models and essential Kubernetes CLI tools including kubectl, helm, istioctl, and argocd, allowing AI systems to assist with cluster management, troubleshooting, and deployments
 ### 📫 How to reach me:
   - Twitch    : <https://twitch.tv/drewvpopc>
   - Website   : <https://andrew.venenga.net>
