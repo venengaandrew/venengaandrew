@@ -29,11 +29,11 @@ src="https://img.shields.io/twitch/status/drewvpopc?logo=twitchsx&style=for-the-
 - [[Snyk] Security upgrade @sendgrid/mail from 8.1.3 to 8.1.5](https://github.com/venengaandrew/andrew-venenga/pull/68) on [venengaandrew/andrew-venenga](https://github.com/venengaandrew/andrew-venenga)
 ### ⭐ Recent Stars
 
+- [StreamController/StreamController](https://github.com/StreamController/StreamController) - An elegant Linux app for the Elgato Stream Deck with support for plugins
 - [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - A very segsy desktop shell
 - [That-Guy-Jack/HP-ILO-Fan-Control](https://github.com/That-Guy-Jack/HP-ILO-Fan-Control) - Uses a Custom ROM for The Hp ILO adapter
 - [DeploymentResearch/HydrationKitWS2025](https://github.com/DeploymentResearch/HydrationKitWS2025) - 
 - [SteamClientHomebrew/Millennium](https://github.com/SteamClientHomebrew/Millennium) - Apply themes/skins/customize Steam® after the 2023-04-27 Chromium UI update
-- [varun-raj/immich-power-tools](https://github.com/varun-raj/immich-power-tools) - Power tools for organizing your immich library 
 ### 📫 How to reach me:
   - Twitch    : <https://twitch.tv/drewvpopc>
   - Website   : <https://andrew.venenga.net>
