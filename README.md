@@ -30,7 +30,7 @@ src="https://img.shields.io/twitch/status/drewvpopc?logo=twitchsx&style=for-the-
 ### ⭐ Recent Stars
 
 - [StreamController/StreamController](https://github.com/StreamController/StreamController) - An elegant Linux app for the Elgato Stream Deck with support for plugins
-- [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - A very segsy desktop shell
+- [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - ‼️ No waybar here ‼️
 - [That-Guy-Jack/HP-ILO-Fan-Control](https://github.com/That-Guy-Jack/HP-ILO-Fan-Control) - Uses a Custom ROM for The Hp ILO adapter
 - [DeploymentResearch/HydrationKitWS2025](https://github.com/DeploymentResearch/HydrationKitWS2025) - 
 - [SteamClientHomebrew/Millennium](https://github.com/SteamClientHomebrew/Millennium) - Apply themes/skins/customize Steam® after the 2023-04-27 Chromium UI update
