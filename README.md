@@ -22,11 +22,11 @@ src="https://img.shields.io/twitch/status/drewvpopc?logo=twitchsx&style=for-the-
 - [venengaandrew/dotfiles](https://github.com/venengaandrew/dotfiles) - My customization files for various programs and OS&#39;s
 ### 🔨 My recent Pull Requests
 
+- [[Snyk] Upgrade @vercel/analytics from 1.4.1 to 1.5.0](https://github.com/venengaandrew/andrew-venenga/pull/89) on [venengaandrew/andrew-venenga](https://github.com/venengaandrew/andrew-venenga)
+- [[Snyk] Upgrade @eslint/compat from 1.2.6 to 1.3.1](https://github.com/venengaandrew/andrew-venenga/pull/88) on [venengaandrew/andrew-venenga](https://github.com/venengaandrew/andrew-venenga)
+- [[Snyk] Upgrade @vercel/speed-insights from 1.0.12 to 1.2.0](https://github.com/venengaandrew/andrew-venenga/pull/87) on [venengaandrew/andrew-venenga](https://github.com/venengaandrew/andrew-venenga)
+- [[Snyk] Upgrade next from 15.4.1 to 15.4.5](https://github.com/venengaandrew/andrew-venenga/pull/86) on [venengaandrew/andrew-venenga](https://github.com/venengaandrew/andrew-venenga)
 - [[Snyk] Upgrade sharp from 0.33.4 to 0.34.3](https://github.com/venengaandrew/andrew-venenga/pull/85) on [venengaandrew/andrew-venenga](https://github.com/venengaandrew/andrew-venenga)
-- [[Snyk] Upgrade @headlessui/react from 2.1.2 to 2.2.4](https://github.com/venengaandrew/andrew-venenga/pull/84) on [venengaandrew/andrew-venenga](https://github.com/venengaandrew/andrew-venenga)
-- [[Snyk] Upgrade @eslint/js from 9.19.0 to 9.31.0](https://github.com/venengaandrew/andrew-venenga/pull/83) on [venengaandrew/andrew-venenga](https://github.com/venengaandrew/andrew-venenga)
-- [[Snyk] Upgrade react-dom from 19.0.0 to 19.1.0](https://github.com/venengaandrew/andrew-venenga/pull/82) on [venengaandrew/andrew-venenga](https://github.com/venengaandrew/andrew-venenga)
-- [[Snyk] Upgrade react from 19.0.0 to 19.1.0](https://github.com/venengaandrew/andrew-venenga/pull/81) on [venengaandrew/andrew-venenga](https://github.com/venengaandrew/andrew-venenga)
 ### ⭐ Recent Stars
 
 - [StreamController/StreamController](https://github.com/StreamController/StreamController) - An elegant Linux app for the Elgato Stream Deck with support for plugins
