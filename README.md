@@ -29,7 +29,7 @@ src="https://img.shields.io/twitch/status/drewvpopc?logo=twitchsx&style=for-the-
 - [[Snyk] Upgrade @vercel/analytics from 1.4.1 to 1.5.0](https://github.com/venengaandrew/andrew-venenga/pull/89) on [venengaandrew/andrew-venenga](https://github.com/venengaandrew/andrew-venenga)
 ### ⭐ Recent Stars
 
-- [we-promise/sure](https://github.com/we-promise/sure) - The personal finance app for everyone. NOT affiliated with or endorsed by Maybe Finance Inc.
+- [we-promise/sure](https://github.com/we-promise/sure) - The personal finance app for everyone (by everyone)
 - [SlackingVeteran/frija](https://github.com/SlackingVeteran/frija) - 
 - [SierraSoftworks/tailscale-unifi](https://github.com/SierraSoftworks/tailscale-unifi) - Run Tailscale on your UniFi OS device
 - [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard
