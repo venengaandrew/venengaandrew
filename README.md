@@ -29,11 +29,11 @@ src="https://img.shields.io/twitch/status/drewvpopc?logo=twitchsx&style=for-the-
 - [[Snyk] Upgrade @vercel/analytics from 1.4.1 to 1.5.0](https://github.com/venengaandrew/andrew-venenga/pull/89) on [venengaandrew/andrew-venenga](https://github.com/venengaandrew/andrew-venenga)
 ### ⭐ Recent Stars
 
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Open source observability platform for logs, metrics, traces, frontend monitoring, pipelines and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage costs and single binary deployment.
 - [ChrisTitusTech/storage-lan-drivers](https://github.com/ChrisTitusTech/storage-lan-drivers) - This is repo with EVERY SINGLE Network (LAN) and Storage driver ever made for 64bit win11
 - [Ravinou/borgwarehouse](https://github.com/Ravinou/borgwarehouse) - A fast and modern WebUI for a BorgBackup&#39;s central repository server.
 - [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Check your IP address &amp; geolocation, test IP for WebRTC and DNS IP leaks, run an IP quality check, browser fingerprint check, website availability check, network speed test, global latency test, MTR test, Whois search, and more.
 - [Ozark-Connect/NetworkOptimizer](https://github.com/Ozark-Connect/NetworkOptimizer) - Self-hosted optimization, monitoring (NMS), and security audit tool for UniFi Networks. Includes Wi-Fi Optimizer for wireless health scoring and channel optimization, advanced DNS/VLAN/firewall security checks, config optimization suggestions, centralized WAN and LAN speed test server w/ L2 tracing, CM, ONT, SFP, 5G modem stats &#43;more.​​​​​​​​​​​​​
-- [we-promise/sure](https://github.com/we-promise/sure) - The personal finance app for everyone (by everyone)
 ### 📫 How to reach me:
   - Twitch    : <https://twitch.tv/drewvpopc>
   - Website   : <https://andrew.venenga.net>
