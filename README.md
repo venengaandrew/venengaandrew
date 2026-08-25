@@ -12,7 +12,6 @@ src="https://img.shields.io/twitch/status/drewvpopc?logo=twitchsx&style=for-the-
 ### 👷 Check out what I'm currently working on
 
 - [venengaandrew/dotfiles](https://github.com/venengaandrew/dotfiles) - My customization files for various programs and OS&#39;s
-- [venengaandrew/andrew-venenga](https://github.com/venengaandrew/andrew-venenga) - 
 ### 🌱 My latest projects
 
 - [venengaandrew/demondetailing.pro](https://github.com/venengaandrew/demondetailing.pro) - 
@@ -29,11 +28,11 @@ src="https://img.shields.io/twitch/status/drewvpopc?logo=twitchsx&style=for-the-
 - [[Snyk] Upgrade @vercel/analytics from 1.4.1 to 1.5.0](https://github.com/venengaandrew/andrew-venenga/pull/89) on [venengaandrew/andrew-venenga](https://github.com/venengaandrew/andrew-venenga)
 ### ⭐ Recent Stars
 
+- [securo-finance/securo](https://github.com/securo-finance/securo) - Open-source personal finance manager. Self-hosted, privacy-first.
 - [xodus-gaming/xodus](https://github.com/xodus-gaming/xodus) - The great gaming migration to Linux
 - [Pouzor/homelable](https://github.com/Pouzor/homelable) - Self-hosted homelab infrastructure visualizer — interactive network diagram with live status monitoring
 - [Lachee/opnsense-oidc](https://github.com/Lachee/opnsense-oidc) - OpenID Connect for OPNSense
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - Open source observability platform for logs, metrics, traces, frontend monitoring, pipelines and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage costs and single binary deployment.
-- [ChrisTitusTech/storage-lan-drivers](https://github.com/ChrisTitusTech/storage-lan-drivers) - This is repo with EVERY SINGLE Network (LAN) and Storage driver ever made for 64bit win11
 ### 📫 How to reach me:
   - Twitch    : <https://twitch.tv/drewvpopc>
   - Website   : <https://andrew.venenga.net>
