@@ -14,6 +14,10 @@ src="https://img.shields.io/twitch/status/drewvpopc?logo=twitchsx&style=for-the-
 - [venengaandrew/dotfiles](https://github.com/venengaandrew/dotfiles) - My customization files for various programs and OS&#39;s
 ### 🌱 My latest projects
 
+- [venengaandrew/demondetailing.pro](https://github.com/venengaandrew/demondetailing.pro) - 
+- [venengaandrew/AV-Blog](https://github.com/venengaandrew/AV-Blog) - 
+- [venengaandrew/hello-rust](https://github.com/venengaandrew/hello-rust) - My Rust Beginner Project
+- [venengaandrew/template-cluster-k3s](https://github.com/venengaandrew/template-cluster-k3s) - 
 - [venengaandrew/dotfiles](https://github.com/venengaandrew/dotfiles) - My customization files for various programs and OS&#39;s
 ### 🔨 My recent Pull Requests
 
