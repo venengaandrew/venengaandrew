@@ -32,7 +32,7 @@ src="https://img.shields.io/twitch/status/drewvpopc?logo=twitchsx&style=for-the-
 - [xodus-gaming/xodus](https://github.com/xodus-gaming/xodus) - The great gaming migration to Linux
 - [Pouzor/homelable](https://github.com/Pouzor/homelable) - Self-hosted homelab infrastructure visualizer — interactive network diagram with live status monitoring
 - [Lachee/opnsense-oidc](https://github.com/Lachee/opnsense-oidc) - OpenID Connect for OPNSense
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Open source observability platform for logs, metrics, traces, frontend monitoring, pipelines and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage costs and single binary deployment.
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Open source observability platform for logs, metrics, traces, RUM, Session replay, pipelines, SLO and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage costs and single binary deployment.
 ### 📫 How to reach me:
   - Twitch    : <https://twitch.tv/drewvpopc>
   - Website   : <https://andrew.venenga.net>
