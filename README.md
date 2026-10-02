@@ -28,11 +28,11 @@ src="https://img.shields.io/twitch/status/drewvpopc?logo=twitchsx&style=for-the-
 - [[Snyk] Upgrade @vercel/analytics from 1.4.1 to 1.5.0](https://github.com/venengaandrew/andrew-venenga/pull/89) on [venengaandrew/andrew-venenga](https://github.com/venengaandrew/andrew-venenga)
 ### ⭐ Recent Stars
 
+- [danswett/streamdeck-teams-control](https://github.com/danswett/streamdeck-teams-control) - Control Microsoft Teams meetings from an Elgato Stream Deck with live state on every key. Works while Teams is in the background; sends no keystrokes.
+- [ancsemi/Haven](https://github.com/ancsemi/Haven) - Self-hosted private chat: no cloud, no telemetry, no Big Tech. Discord alternative that runs on your own machine.
 - [securo-finance/securo](https://github.com/securo-finance/securo) - Open-source personal finance manager. Self-hosted, privacy-first.
 - [xodus-gaming/xodus](https://github.com/xodus-gaming/xodus) - The great gaming migration to Linux
 - [Pouzor/homelable](https://github.com/Pouzor/homelable) - Self-hosted homelab infrastructure visualizer — interactive network diagram with live status monitoring
-- [Lachee/opnsense-oidc](https://github.com/Lachee/opnsense-oidc) - OpenID Connect for OPNSense
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Open source observability platform for logs, metrics, traces, RUM (web, android, ios), Session replay, pipelines, SLO and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage costs and single binary deployment.
 ### 📫 How to reach me:
   - Twitch    : <https://twitch.tv/drewvpopc>
   - Website   : <https://andrew.venenga.net>
